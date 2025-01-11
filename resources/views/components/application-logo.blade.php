@@ -1,0 +1,1 @@
+<img src="{{asset('img/android-chrome-512x512.png')}}" alt="Logo Image" width="80" height="80">

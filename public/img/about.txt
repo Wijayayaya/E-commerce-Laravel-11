@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: PT Sans
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/ptsans/v17/jizdRExUiTo99u79D0e8fOytKB8c8zMrig.ttf
+- Font License: undefined)
